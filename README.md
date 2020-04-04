@@ -6,6 +6,6 @@ In this analysis it is seen that plays are extremely successful in their Kicksta
 An additional column in the “outcome based on launch date” sheet and a corresponding graph that describes the percentage of successful theater campaigns for each month would help show if time was an actual factor in success or if the number of success was due just to a high amount of “Grand Total” campaigns in a given month.
 The limitations of the analysis we created is that we do not have the rate that it took “Fever” or the other successful campaign to fundraise their money, so it is very difficult to answer this question. Also, we do not have the data for the profits the campaigns made after the projects were fully follow through with, which makes it hard to determine if the various campaigns were good investments to begin with.
 
-![Outcomes Based on Launch Date](Outcomes_Based_on_Launch_Date.png)
+![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
 
-![Outcomes Based on Goals](Outcomes_Based_on_Goals.png)
+![Outcomes Based on Goals](Outcomes Based on Goals.png)
